@@ -11,7 +11,7 @@ public class L2022111897_16_Test {
 
         // 测试用例 1
         int[] nums1 = {10, 2};
-        String expected1 = "210";
+        String expected1 = "21";
         assertEquals(expected1, solution.largestNumber(nums1));
 
         // 测试用例 2
